@@ -1,0 +1,10 @@
+firebaseConfig = {
+  apiKey: "AIzaSyBhYD9XiQekgFXLuLtPpyp9MDj7LDGByvU",
+  authDomain: "erpweb-991ec.firebaseapp.com",
+  projectId: "erpweb-991ec",
+  storageBucket: "erpweb-991ec.appspot.com",
+  messagingSenderId: "59982596808",
+  appId: "1:59982596808:web:77852572037944c35033fd",
+  measurementId: "G-RFJBM5BSZY",
+  databaseURL:https:"//erpweb-991ec-default-rtdb.europe-west1.firebasedatabase.app/"
+}
