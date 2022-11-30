@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<epochs xmlns="http://www.egi.com/epochs_mff" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <epoch>
+        <beginTime>0</beginTime>
+        <endTime>8044000</endTime>
+        <firstBlock>1</firstBlock>
+        <lastBlock>2</lastBlock>
+    </epoch>
+    <epoch>
+        <beginTime>42002000</beginTime>
+        <endTime>170454000</endTime>
+        <firstBlock>3</firstBlock>
+        <lastBlock>19</lastBlock>
+    </epoch>
+    <epoch>
+        <beginTime>200768000</beginTime>
+        <endTime>329454000</endTime>
+        <firstBlock>20</firstBlock>
+        <lastBlock>36</lastBlock>
+    </epoch>
+    <epoch>
+        <beginTime>364514000</beginTime>
+        <endTime>489200000</endTime>
+        <firstBlock>37</firstBlock>
+        <lastBlock>52</lastBlock>
+    </epoch>
+</epochs>

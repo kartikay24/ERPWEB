@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<historyEntries xmlns="http://www.egi.com/history_mff" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <entry>
+        <tool>
+            <name>Segmentation_TSO_EEGLAB</name>
+            <method>Segmentation</method>
+            <version>5.4.2</version>
+            <beginTime>2022-08-01T14:20:50.793866+05:30</beginTime>
+            <endTime>2022-08-01T14:20:50.835140+05:30</endTime>
+            <sourceFiles>
+                <filePath>/Users/egi/Documents/Net Station User Data/Sessions/Lab Class Recordings/LRP_102/LRP_TSO_102_1_20220725_094325 EEGLAB.mff</filePath>
+            </sourceFiles>
+            <settings>
+                <setting>Overwrite track &quot;Seg Mark&quot;</setting>
+                <setting>Mark Up File</setting>
+                <setting>Track Name: &quot;Seg Mark&quot;</setting>
+                <setting>Overwrite existing track.</setting>
+                <setting>  1: Rules for category &quot;NonTarget&quot;</setting>
+                <setting>    Milliseconds Before: 0</setting>
+                <setting>    Milliseconds After: 114849110128469</setting>
+                <setting>    Milliseconds Offset: 13</setting>
+                <setting>    Event 1:</setting>
+                <setting>        Code is &quot;stm+&quot; and</setting>
+                <setting>        Key Code &quot;cel#&quot; is 1</setting>
+                <setting>  2: Rules for category &quot;Target&quot;</setting>
+                <setting>    Milliseconds Before: 0</setting>
+                <setting>    Milliseconds After: 114849110128469</setting>
+                <setting>    Milliseconds Offset: 13</setting>
+                <setting>    Event 1:</setting>
+                <setting>        Code is &quot;stm+&quot; and</setting>
+                <setting>        Key Code &quot;cel#&quot; is 2</setting>
+                <setting>  3: Rules for category &quot;NovelStim&quot;</setting>
+                <setting>    Milliseconds Before: 0</setting>
+                <setting>    Milliseconds After: 114849110128469</setting>
+                <setting>    Milliseconds Offset: 13</setting>
+                <setting>    Event 1:</setting>
+                <setting>        Code is &quot;stm+&quot; and</setting>
+                <setting>        Key Code &quot;cel#&quot; is 3</setting>
+            </settings>
+        </tool>
+    </entry>
+</historyEntries>
