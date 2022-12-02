@@ -1,1 +1,0 @@
-This file is open in Net Station Review.  If this file is not actually open in Review, locally or remotely, you can delete this file.  This file is used by Net Station Tools to determine whether the file is activly open in Review.
